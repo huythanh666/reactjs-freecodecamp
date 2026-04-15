@@ -1,8 +1,9 @@
-import OtpGenerator from "./lab/OtpGererator"
+import { EventRSVPForm } from "./lab/abc"
 
 function App() {
   return (
-    <OtpGenerator/>
+    // <OtpGenerator/>
+    <EventRSVPForm/>
   )
 }
 
